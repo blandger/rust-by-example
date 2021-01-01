@@ -2,6 +2,9 @@
 title = "Rust By Example"
 description = "A description"
 author = "The Rust Community"
+language = "ru"
+version = "0.0.1-alpha.0"
+
 
 [output.html]
 google-analytics="UA-142155799-3"
@@ -9,3 +12,6 @@ google-analytics="UA-142155799-3"
 [output.html.playpen]
 editable = true
 editor = "ace"
+
+[output.epub]
+
